@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\özge kocaoğlu\desktop\projects\texture mapping\texturemapping\texturemapping\window.h(15): warning C4244: 'return': 'GLint' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\özge kocaoğlu\desktop\projects\texture mapping\texturemapping\texturemapping\window.h(16): warning C4244: 'return': 'GLint' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\özge kocaoğlu\desktop\projects\texture mapping\texturemapping\texturemapping\main.cpp(87): warning C4244: 'başlatılıyor': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+  TextureMapping.vcxproj -> C:\Users\Özge Kocaoğlu\Desktop\Projects\Texture Mapping\TextureMapping\Debug\TextureMapping.exe
